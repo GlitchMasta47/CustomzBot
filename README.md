@@ -14,8 +14,8 @@ More info can be found on CustomzBot's wiki, or on the [site.](http://glitchmast
 # If you're not very technical
 **For the sake of decentralisation, consider using your own copy of CustomzBot.**
 
-If you plan on just using CustomzBot as a chatbot, and don't plan on using the files, you can make CustomzBot join your server via CustomzBot's testing & hub server (https://discord.gg/0cFoiR5QVh57Spqg). Use `!join-server DougleyBot <instant-invite>` to make DougleyBot join your server.
-**Note** that admin restricted commands, like `!pullanddeploy`, `!online` and `!idle`, don't work on this instance.
+If you plan on just using CustomzBot as a chatbot, and don't plan on using the files, you can make CustomzBot join your server via CustomzBot's testing & hub server (https://discord.gg/C34FcZa). Use `/join-server CustomzBot <instant-invite>` to make DougleyBot join your server.
+**Note** that admin restricted commands, like `/pullanddeploy`, `/online` and `/idle`, don't work on this instance.
 
 # Contributing
 All contributions are more than welcome!
@@ -37,5 +37,5 @@ Check the wiki for more info.
 - [x] Make it so that log files are written when !log is used, instead of printing them to the console.
 - [x] Make it so that !help outputs into a DM, instead of printing it into the channel.
 - [x] Integrate Cleverbot support, but restrict it to a certain channel.
-- [ ] Integrate a function to make DougleyBot stream music to a certain voice channel. (discord.js is being rewritten to support voice.)
-- [ ] Create a function to make DougleyBot create text/voice channels, but restrict it to a certain permission.
+- [ ] Integrate a function to make CustomzBot stream music to a certain voice channel. (discord.js is being rewritten to support voice.)
+- [ ] Create a function to make CustomzBot create text/voice channels, but restrict it to a certain permission.
