@@ -7,6 +7,9 @@
 [![License](https://img.shields.io/badge/License-GNU-blue.svg?style=flat-square)]()
 [![Tested on](https://img.shields.io/badge/Tested%20on-Windows%2010%2FUbuntu%2015.10-lightgrey.svg?style=flat-square)]()
 
+[![GitHub contributors](https://img.shields.io/github/contributors/glitchmasta47/customzbot.svg?style=flat-square)]()
+
+
 A chat bot for Discord based off <a href="https://github.com/hydrabolt/discord.js/">discord.js</a>.
 More info can be found on CustomzBot's wiki, or on the [site.](http://glitchmasta47.github.io/projects/customzbot/)
 
