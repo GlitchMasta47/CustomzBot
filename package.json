@@ -1,0 +1,8 @@
+{
+  "name": "customzbot",
+  "version": "1.0.0",
+  "description": "Heroku",
+  "main": "main.js",
+  "author": "",
+  "license": "MIT"
+}
