@@ -21,6 +21,10 @@
     "WEB_CONCURRENCY": {
       "description": "The number of processes to run.",
       "value": "5"
+    },
+    "PORT": {
+      "description": "The web port for the express server to run on. The default is 80.",
+      "value": "80"
     }
   },
   "formation": {
