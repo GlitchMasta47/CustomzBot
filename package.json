@@ -4,5 +4,8 @@
   "description": "Heroku",
   "main": "main.js",
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.15.2"
+  }
 }
