@@ -10,6 +10,6 @@
   },
   "scripts": {
     "test": "echo No tests available && exit",
-    "start": "node --harmony main.js"
+    "start": "node main.js"
   }
 }
