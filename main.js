@@ -2,9 +2,7 @@ var express = require('express')
 var app = express()
 var port = process.env.PORT
 
-app.get('/', function (req, res) {
-  res.send('Hello World!')
-})
+app.use(app.static('webdocs'))
 
 app.listen(port, function () {
   console.log(`Example app listening on port ${port}!`)
