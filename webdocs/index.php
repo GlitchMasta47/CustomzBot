@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html class="gr__customzbot_herokuapp_com"><head>
 <title>Under Maintenance</title>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -101,23 +100,28 @@
                 <h1 class="avatar has-text-centered section">
                   <img src="http://i.imgur.com/tBYsJsO.png">
                 </h1>
-                <div class="login-form">
+                <form class="login-form" action="/" method="post">
+                  <p class="control">
+                    <span style="color: #ea0000;">
+                      Error message.
+                    </span>
+                  </p>
                   <p class="control has-icon has-icon-right">
-                    <input class="input email-input" type="text" placeholder="Username">
+                    <input class="input email-input" type="text" placeholder="Username" name="username">
                     <span class="icon user">
                       <i class="fa fa-user"></i>
                     </span>
                   </p>
                   <p class="control has-icon has-icon-right">
-                    <input class="input password-input" type="password" placeholder="Password">
+                    <input class="input password-input" type="password" placeholder="Password" name="password">
                     <span class="icon user">
                       <i class="fa fa-lock"></i>
                     </span>
                   </p>
                   <p class="control login">
-                    <button class="button is-success is-outlined is-large is-fullwidth">Login</button>
+                    <button type="submit" class="button is-success is-outlined is-large is-fullwidth">Login</button>
                   </p>
-                </div>
+                </form>
                 
               </div>
             </div>
