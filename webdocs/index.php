@@ -103,7 +103,7 @@
                 <form class="login-form" action="/" method="post">
                   <p class="control">
                     <span style="color: #ea0000;">
-                      Error message.
+                      Example error message.
                     </span>
                   </p>
                   <p class="control has-icon has-icon-right">
